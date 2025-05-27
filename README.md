@@ -8,24 +8,39 @@ This project focuses on **business analytics, data-driven decision-making, and m
 ## 📁 Repository Structure
 
 
-📂 Quilk-Business-Analytics
+📂 **Quilk-Business-Analytics**
 
-│── 📄 README.md            
-# Project documentation 
-│── 📂 data/                 
-# Business data & performance metrics 
-│── 📂 reports/          
-# Analytical insights & business intelligence reports 
-│── 📂 models/       
-# Predictive models for business decision-making
+│── 📄 README.md    
+
+**Project documentation**
+
+│── 📂 data/   
+
+**Business data & performance metrics**
+
+│── 📂 reports/       
+
+**Analytical insights & business intelligence reports**
+ 
+│── 📂 models/      
+
+**Predictive models for business decision-making**
+
 │── 📂 results/              
-# Findings, visualizations & optimization techniques
-│── 📂 config/                
-# Configuration files & metadata 
+
+**Findings, visualizations & optimization techniques**
+
+│── 📂 config/   
+
+**Configuration files & metadata**
+
 │── 📄 requirements.txt       
-# Dependencies for analysis tools
+
+**Dependencies for analysis tools**
+
 │── 📄 LICENSE               
-# Legal information about usage
+
+**Legal information about usage**
 
 ## 🔍 Key Focus Areas
 - **Market Analysis & Trends** – Identifying opportunities through data analytics.
